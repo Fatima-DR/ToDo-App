@@ -1,0 +1,6 @@
+Dynamic list
+
+1. Tasks left will be a dynamic number.
+2. Add task type and task area will be dynamic because we don't know the length of the task list.
+3. The list will always be changing 
+4. Row size will be changing 
