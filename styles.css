@@ -5,10 +5,28 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-style: unset;
     width: 1000px;
-    padding-left: 50px;
-    padding-right: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
     padding-bottom: 1000px;
-    margin: 20px;
+    margin: 50px;
+    font-size: 30px;
+    text-align: left;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50p;
+}
+
+input.largerCheckbox { 
+    width: 30px; 
+    height: 30px; 
+} 
+
+.button-addon2 {
+    width: 60px;
+    height:30px
 }
 
 main {
@@ -30,11 +48,4 @@ main {
     }
 }
 
-.blue-sqr {
-    height: 200px;
-    border: 3px dashed;
-    padding-inline: 30px;
-    column-fill: balance;
-    white-space: nowrap;
-}
 
